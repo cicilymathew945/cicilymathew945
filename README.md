@@ -6,6 +6,8 @@ I am an aspiring Data Scientist with 8+ years of global experience in SQL, Pytho
 
 🚀 Featured AI/ML Projects
 
+[Email Location Prediction Tool](https://github.com/cicilymathew945/Email_Location_Prediction)
+
 [AI-Powered QA Tool] - Developed a full-stack GenAI application using GPT models to automate test case generation from software requirements, reducing manual effort by 50%.
 
 [Big Data Energy Forecasting] - Built a scalable PySpark (SparkML) pipeline to forecast hourly electricity prices, optimizing energy planning for small businesses.
