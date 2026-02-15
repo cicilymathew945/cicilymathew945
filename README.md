@@ -38,8 +38,6 @@ Cloud & Big Data
 
 Azure Data Factory, AWS EMR, Google Cloud Dataproc, Airflow, Spark
 
-MLOps & DevOps
-
 Kubernetes, Docker, Streamlit API, Git, Vertex AI
 
 💼 Professional Experience
