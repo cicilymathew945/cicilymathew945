@@ -6,11 +6,12 @@ I am an aspiring Data Scientist with 8+ years of global experience in SQL, Pytho
 
 🚀 Featured AI/ML Projects
 
-[Email Location Prediction Tool](https://github.com/cicilymathew945/Email_Location_Prediction)
+[Email Location Prediction Tool](https://github.com/cicilymathew945/Email_Location_Prediction) - Developed a prediction algorith to predict the target folder location associated with emails. By leveraging Natural Language Processing (NLP) and Machine Learning classification techniques, we analyze both email metadata and content to infer the destination or origin folder.
 
 [AI-Powered QA Tool] - Developed a full-stack GenAI application using GPT models to automate test case generation from software requirements, reducing manual effort by 50%.
 
-[Brand_Delights_Disappointment_Maps](https://github.com/cicilymathew945/Brand_Delights_Disappointment_Maps)
+[Brand_Delights_Disappointment_Maps](https://github.com/cicilymathew945/Brand_Delights_Disappointment_Maps) - Developed an NLP pipeline using Amazon Product Reviews (Kaggle) to identify brand-specific topics, delighters, and disappointers.
+Implemented TF-IDF, LDA topic modeling, and K-means clustering to generate brand positioning maps and insights.
 
 [Big Data Energy Forecasting] - Built a scalable PySpark (SparkML) pipeline to forecast hourly electricity prices, optimizing energy planning for small businesses.
 
