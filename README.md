@@ -10,6 +10,8 @@ I am an aspiring Data Scientist with 8+ years of global experience in SQL, Pytho
 
 [AI-Powered QA Tool] - Developed a full-stack GenAI application using GPT models to automate test case generation from software requirements, reducing manual effort by 50%.
 
+[Brand_Delights_Disappointment_Maps] (https://github.com/cicilymathew945/Brand_Delights_Disappointment_Maps)
+
 [Big Data Energy Forecasting] - Built a scalable PySpark (SparkML) pipeline to forecast hourly electricity prices, optimizing energy planning for small businesses.
 
 [Industry Sentiment Analysis] - Implemented a NLP pipeline (BERTopic, SpaCy, GPT-3.5) to analyze 200K+ news articles, tracking sentiment shifts and workforce impacts.
